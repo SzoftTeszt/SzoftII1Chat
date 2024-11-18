@@ -12,6 +12,10 @@ $RECYCLE.BIN/
 *.log
 log.txt
 
+#Firebase
+src/environments/environment.prod.ts
+src/environments/environment.ts
+
 
 /.sourcemaps
 /.versions
